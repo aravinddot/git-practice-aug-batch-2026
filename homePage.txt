@@ -1,7 +1,11 @@
 
+<<<<<<< HEAD
 8 test cases added
 <<<<<<< HEAD
 =======
 
 2 test cases added
 >>>>>>> 3f1e75d (2 test cases added)
+=======
+8 test cases added
+>>>>>>> efc0828 (Revert "2 test cases added")
