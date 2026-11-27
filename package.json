@@ -1,0 +1,26 @@
+{
+  "name": "git-practice-aug-batch-2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravinddot/git-practice-aug-batch-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aravinddot/git-practice-aug-batch-2026/issues"
+  },
+  "homepage": "https://github.com/aravinddot/git-practice-aug-batch-2026#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.11"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10"
+  }
+}
